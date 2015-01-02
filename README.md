@@ -5,6 +5,6 @@ Este repositório tem como objetivo reunir "papers", ou seja, livros, slides ou 
 O repositório está estruturado da seguinte forma:
 
 * lang
-    + Autor, Nome
+    + Autor(es) - Nome
 
 Esperemos que contribuam e que este repositório vos seja útil.
