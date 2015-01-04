@@ -1,8 +1,8 @@
 #Papers
 
-O objetivo deste repoisótio é reunir "papers", ou seja, lviros, slides, ou qualquer outro material relacionado com Engenharia Informática que possa ser útil à comunidade de falantes de Português.
+O objetivo deste repoisótio é reunir "papers", ou seja, lviros, slides, ou qualquer outro material relacionado com Ciência da Computação que possa ser útil à comunidade de falantes de Português.
 
-Os conteúdos não necessitam de ser, obrigatoriamente, sobre Linguagens de Programação, podendo ser qualquer tema tratado em licenciaturas, metrados e/ou doutouramentos relacionados com a área.
+Os conteúdos não necessitam de ser, obrigatoriamente, sobre Linguagens de Programação, podendo ser qualquer tema relacionado com Ciência da Computação.
 
 ##Organização
 
