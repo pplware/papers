@@ -9,6 +9,7 @@ Os conteúdos não necessitam de ser, obrigatoriamente, sobre Linguagens de Prog
 Para que a facilidade de acesso e pesquisa seja maior, pedímos que siga as seguintes regras de organização.
 
 + O nome de todas as pastas deve ser escrito com letras **minúsculas**;
++ O nome dos ficheiros não deve conter espaços, acentos, nem caracteres especiais;
 + Não devem ser colocados espaços no nome de diretótios, mas sim "_";
 + O nome dos materiais deve ter esta estrutura ```Nome - Autor (, Autor[es])```;
 + Todas as pastas têm um ```README.md``` que contém a listagem do conteúdo dessa pasta ou outras informações;
