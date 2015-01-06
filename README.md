@@ -1,6 +1,6 @@
 #Papers
 
-O objetivo deste repoisótio é reunir "papers", ou seja, lviros, slides, ou qualquer outro material relacionado com Ciência da Computação que possa ser útil à comunidade de falantes de Português.
+O objetivo deste repoisótio é reunir "papers", ou seja, livros, slides, ou qualquer outro material relacionado com Ciência da Computação que possa ser útil à comunidade de falantes de Português.
 
 Os conteúdos não necessitam ser, obrigatoriamente, sobre Linguagens de Programação, podendo ser sobre qualquer tema relacionado com Ciência da Computação.
 
