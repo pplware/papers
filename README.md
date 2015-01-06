@@ -4,6 +4,11 @@ O objetivo deste repoisótio é reunir "papers", ou seja, lviros, slides, ou qua
 
 Os conteúdos não necessitam ser, obrigatoriamente, sobre Linguagens de Programação, podendo ser sobre qualquer tema relacionado com Ciência da Computação.
 
+##Outros Materiais
+####Regras abaixo
+
++ [Documentos sobre diversas Linguagens de Programação, Lógica de Programação e Algoritmos](https://mega.co.nz/#F!2QYDjTTZ!FOhapzlw2GQkidRSr1kEUw)
+
 ##Organização
 
 Para que a facilidade de acesso e pesquisa seja maior, pedimos que siga as seguintes regras de organização.
